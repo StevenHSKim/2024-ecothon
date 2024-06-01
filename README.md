@@ -7,7 +7,7 @@
 ## 활용 데이터
 (보유/제공)데이터명.형식 (규모) 형식을 따른다
 
-다운로드 경로: [https://www.data.go.kr/dataset/15003169/openapi.do] (https://www.data.go.kr/dataset/15003169/openapi.do)
+다운로드 경로: https://www.data.go.kr/dataset/15003169/openapi.do
  - (공공데이터포털/서울교통공사)서울교통공사_1_8호선 역사 좌표(위경도) 정보_20231031.csv (14KB)
  - (공공데이터포털/서울교통공사)서울교통공사_지하역사 공기질 측정 정보_20171231.csv (17KB)
  - (공공데이터포털/서울교통공사)서울교통공사_지하역사공기질측정결과_20181231.csv (8KB)
@@ -17,7 +17,7 @@
  - (공공데이터포털/서울교통공사)서울교통공사_지하역사 공기질 측정 정보_20221231.csv (14KB)
  - (공공데이터포털/서울교통공사)서울교통공사_지하역사 승강장 공기청정기 설치 정보_2023.csv (16KB)
 
-다운로드 경로: [https://data.seoul.go.kr/] (https://data.seoul.go.kr/)
+다운로드 경로: https://data.seoul.go.kr/
  - (서울열린데이터광장/서울특별시)CARD_SUBWAY_MONTH_2017.csv (12.27MB)
  - (서울열린데이터광장/서울특별시)CARD_SUBWAY_MONTH_2018.csv (12.55MB)
  - (서울열린데이터광장/서울특별시)CARD_SUBWAY_MONTH_2019.csv (12.76MB)
@@ -25,5 +25,5 @@
  - (서울열린데이터광장/서울특별시)CARD_SUBWAY_MONTH_2021.csv (12.65MB)
  - (서울열린데이터광장/서울특별시)CARD_SUBWAY_MONTH_2022.csv (12.76MB)
 
-경로: [https://cleanindoor.seoul.go.kr/contents.do?contentsNo=32&menuNo=193] (https://cleanindoor.seoul.go.kr/contents.do?contentsNo=32&menuNo=193)
+경로: https://cleanindoor.seoul.go.kr/contents.do?contentsNo=32&menuNo=193
  - (서울특별시홈페이지/서울특별시)실내공기질 관리기준
