@@ -25,5 +25,5 @@
  - (서울열린데이터광장/서울특별시)CARD_SUBWAY_MONTH_2021.csv (12.65MB)
  - (서울열린데이터광장/서울특별시)CARD_SUBWAY_MONTH_2022.csv (12.76MB)
 
-경로: https://cleanindoor.seoul.go.kr/contents.do?contentsNo=32&menuNo=193
+열람 경로: https://cleanindoor.seoul.go.kr/contents.do?contentsNo=32&menuNo=193
  - (서울특별시홈페이지/서울특별시)실내공기질 관리기준
